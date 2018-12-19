@@ -18,8 +18,8 @@ For running the code on Jupyter, press shift enter in each one of the cells or o
 The visualizations were made in Tableau, the file names and the corresponding .png file are below. The csv files used as inputs are described below as well.
 
 dengue_trends.twb <br>
-google_search_interest.twb
-dash_complete.png
-google_index_cases.png
-google_trends_dengue.csv
+google_search_interest.twb <br>
+dash_complete.png <br>
+google_index_cases.png <br>
+google_trends_dengue.csv <br>
 trends_weather.csv
